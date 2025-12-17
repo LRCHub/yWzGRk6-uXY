@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Classic",
+  "base_artist": "MKTO",
+  "createdAt": "2025-12-17T07:42:44.351406Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Classic Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Massive Attack",
+      "has_synced": false,
+      "path": "select/01_Milk_(Massive_Attack_-_Classic_Mix)_(_2015_-_Remaster)_Garbage_feat._Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Classic Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/02_Milk_(Massive_Attack_-_Classic_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Ultra Classic Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Massive Attack",
+      "has_synced": false,
+      "path": "select/03_Milk_(Massive_Attack_-_Ultra_Classic_Mix)_(_2015_-_Remaster)_Garbage_feat._Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Ultra Classic Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/04_Milk_(Massive_Attack_-_Ultra_Classic_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Moon My Man (Boys Noize Classic mix)",
+      "artist": "Feist",
+      "has_synced": true,
+      "path": "select/05_My_Moon_My_Man_(Boys_Noize_Classic_mix)_Feist.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Might Need Somebody (DI Classic radio mix)",
+      "artist": "Shola Ama",
+      "has_synced": false,
+      "path": "select/06_You_Might_Need_Somebody_(DI_Classic_radio_mix)_Shola_Ama.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cartoon Heroes - Love To Infinity Classic Radio Mix",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/07_Cartoon_Heroes_-_Love_To_Infinity_Classic_Radio_Mix_Aqua.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carton Heroes (Love to Infinity classic radio mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/08_Carton_Heroes_(Love_to_Infinity_classic_radio_mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Turn Back Time (Love To Infinity's Classic Radio Mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/09_Turn_Back_Time_(Love_To_Infinity's_Classic_Radio_Mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Turn Back Time (Love to Infinity’s Classic radio mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/10_Turn_Back_Time_(Love_to_Infinity’s_Classic_radio_mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Turn Back Time (Love To Infinity's Classic Paradise Mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/11_Turn_Back_Time_(Love_To_Infinity's_Classic_Paradise_Mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Low Down and Dirty (Classic)",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/12_Low_Down_and_Dirty_(Classic)_Eminem.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Masterpiece - Classic Remastered",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/13_Masterpiece_-_Classic_Remastered_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Masterpiece (Classic Masterized)",
+      "artist": "Gazebo",
+      "has_synced": true,
+      "path": "select/14_Masterpiece_(Classic_Masterized)_Gazebo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cold Shoulder (Basement Jaxx Classic Edit)",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/15_Cold_Shoulder_(Basement_Jaxx_Classic_Edit)_Adele.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Two Three - Live Version Classic 21 Showcase",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/16_One_Two_Three_-_Live_Version_Classic_21_Showcase_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Night Before - Live Version Classic 21 Showcase",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/17_The_Night_Before_-_Live_Version_Classic_21_Showcase_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Classic Girl",
+      "artist": "Jane's Addiction",
+      "has_synced": true,
+      "path": "select/18_Classic_Girl_Jane's_Addiction.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Classic Girl (Album Version)",
+      "artist": "Jane's Addiction",
+      "has_synced": true,
+      "path": "select/19_Classic_Girl_(Album_Version)_Jane's_Addiction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Classic",
+      "artist": "MKTO",
+      "has_synced": false,
+      "path": "select/pl_01_Classic_MKTO.txt"
+    }
+  ]
+}
